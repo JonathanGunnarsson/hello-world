@@ -1,2 +1,5 @@
 # hello-world
-another repository bites the dust
+
+Hello world!
+
+I love coffee and pancakes on a sunday morning!
